@@ -106,7 +106,3 @@ database/
 routes/api.php                    # Route model binding: /users/{user}, /wallets/{wallet}
 tests/Feature/MoneyTrackerApiTest.php
 ```
-
-## Repo
-
-Use clear, descriptive commits (e.g. migrations, controllers, validation, resources, tests) so the history shows development progress.
